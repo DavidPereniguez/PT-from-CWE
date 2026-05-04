@@ -4,7 +4,7 @@ xAct-based Mathematica notebook for perturbation theory on spherical backgrounds
 
 ## Contents
 
-- `CWEs_Public.nb`: Mathematica notebook using xAct to compute and manipulate covariantly the perturbation theory equations in spherical backgrounds, based on selfudal curavture variables and curvature wave equations. 
+- `CWEs_VacuumGR.nb`: Mathematica notebook using xAct to compute and manipulate covariantly the perturbation theory equations in spherical backgrounds, based on selfudal curavture variables and curvature wave equations. 
 
 ## Requirements
 
@@ -17,7 +17,7 @@ The xAct package suite is available from the official xAct website: https://www.
 
 1. Install Mathematica.
 2. Install xAct.
-3. Open `CWEs_Public.nb`.
+3. Open `CWEs_VacuumGR.nb`.
 4. Evaluate Sections 0 and 1 of the chapter "Fundamental Equations and Examples". Chapter "Applications" shows how to apply the fundamental equations to the case of vacuum GR with matterial sources. 
 
 ## Citation
